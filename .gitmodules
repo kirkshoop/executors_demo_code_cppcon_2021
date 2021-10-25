@@ -1,4 +1,4 @@
 [submodule "libunifex"]
 	path = libunifex
-	url = git@github.com:kirkshoop/libunifex.git
+	url = https://github.com/kirkshoop/libunifex.git
 	branch = executors_demo_code_cppcon_2021

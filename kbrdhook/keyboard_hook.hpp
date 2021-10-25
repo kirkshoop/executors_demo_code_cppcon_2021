@@ -22,8 +22,8 @@
 #include <unifex/sender_concepts.hpp>
 #include <unifex/sequence.hpp>
 
-#include "kbdhook/sender_range.hpp"
-#include "kbdhook/com_thread.hpp"
+#include "sender_range.hpp"
+#include "com_thread.hpp"
 
 #include <windows.h>
 #include <windowsx.h>

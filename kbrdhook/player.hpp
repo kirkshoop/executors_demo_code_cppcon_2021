@@ -25,7 +25,7 @@
 #include <unifex/sender_concepts.hpp>
 #include <unifex/sequence.hpp>
 
-#include "kbdhook/com_thread.hpp"
+#include "com_thread.hpp"
 
 #include <mfplay.h>
 #include <windows.h>

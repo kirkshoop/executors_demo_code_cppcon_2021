@@ -32,10 +32,10 @@
 #include <chrono>
 #include <optional>
 
-#include "kbdhook/clean_stop.hpp"
-#include "kbdhook/com_thread.hpp"
-#include "kbdhook/keyboard_hook.hpp"
-#include "kbdhook/player.hpp"
+#include "clean_stop.hpp"
+#include "com_thread.hpp"
+#include "keyboard_hook.hpp"
+#include "player.hpp"
 
 unifex::task<void> clickety(Player& player, keyboard_hook& keyboard) {
   for (auto next : keyboard.events()) {
