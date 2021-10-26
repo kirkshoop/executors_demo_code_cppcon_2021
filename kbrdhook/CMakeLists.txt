@@ -1,4 +1,4 @@
-# Copyright (c) 2019-present, Facebook, Inc.
+# Copyright (c) Kirk Shoop.
 #
 # This source code is licensed under the license found in the
 # LICENSE.txt file in the root directory of this source tree.
